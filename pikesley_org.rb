@@ -8,7 +8,7 @@ class PikesleyOrg < Sinatra::Base
   use Rack::GoogleAnalytics, :tracker => 'UA-20895204-12'
 
   @@locals = {
-      :bootstrap_theme => 'http://bootswatch.com/amelia/bootstrap.min.css'
+      :bootstrap_theme => 'http://bootswatch.com/united/bootstrap.min.css'
   }
 
   get '/' do
