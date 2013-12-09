@@ -9,7 +9,6 @@ Some places you can find me on the web:
 * My terribly neglected [blog](http://org.orgraphone.org/)
 * My [Soundcloud](https://soundcloud.com/pikesley) and [my band's](https://soundcloud.com/rawfunkmaharishi)
 
-
 And some things I have made:
 
 * [Uncle Clive](http://uncleclive.herokuapp.com/): Sinclair Spectrum font as a Service
