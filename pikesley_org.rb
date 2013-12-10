@@ -14,7 +14,7 @@ class PikesleyOrg < Sinatra::Base
   get '/' do
     haml :readme, :locals => @@locals.merge(
         {
-            :title => 'pikesley.org'
+            :title => 'sam.pikesley.org'
         }
     )
   end
