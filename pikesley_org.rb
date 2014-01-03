@@ -11,5 +11,9 @@ class PikesleyOrg < Sinatra::Base
     haml :readme, :locals => @@locals.merge({ :title => 'sam.pikesley.org' })
   end
 
+  not_found do
+    haml :four_o_four, :locals => @@locals.merge({ :title => 'nothing to see here'})
+  end
+
   run! if app_file == $0
 end
