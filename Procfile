@@ -1,1 +1,1 @@
-web: bundle exec ruby pikesley_org.rb
+#web: bundle exec ruby pikesley_org.rb
