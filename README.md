@@ -8,6 +8,7 @@ Some places you can find me on the web:
 * My lovely employers, the [Open Data Institute](http://theodi.org/team/sam-pikesley)
 * My terribly neglected [blog](http://org.orgraphone.org/)
 * My [Soundcloud](https://soundcloud.com/pikesley) and [my band's](https://soundcloud.com/rawfunkmaharishi)
+* My very patchy [YouTube](https://www.youtube.com/user/pikesley/videos) channel
 
 And some things I have made (several of which are on Heroku, so have probably gone to sleep, please be patient while they wake up):
 
