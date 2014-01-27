@@ -1,6 +1,6 @@
 #sam.pikesley.org
 
-Some places you can find me on the web:
+I write code and play music. Some places you can find me on the web:
 
 * My [Github](https://github.com/pikesley) account
 * My [Twitter](https://twitter.com/pikesley) stream
