@@ -14,6 +14,7 @@ And some things I have made (several of which are on Heroku, so have probably go
 
 * [Pancreas API](http://pancreas-api.herokuapp.com/): Just because my pancreas is broken, doesn't mean it can't have a RESTful API
 * [Diabetes Dashboard](http://pikesley.github.io/diabetes-dashboard/): Dashing dashboard fed by the Pancreas API
+* [Badger](http://pikesley.github.io/badger/): Generate Github project badges like a boss
 * [Uncle Clive](http://uncleclive.herokuapp.com/): Sinclair Spectrum font as a Service
 * [Pokrovsky](http://pokrovsky.herokuapp.com/): Github History Vandalism as a Service
 * [What is DevOps?](http://whatisdevops.com/)
