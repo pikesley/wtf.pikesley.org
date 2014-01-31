@@ -23,10 +23,3 @@ And some things I have made (several of which are on Heroku, so have probably go
 * [Is James Delingpole wrong?](http://isjamesdelingpolewrong.info/)
 * [Is Toby Young wrong?](http://istobyyoungwrong.info/)
 * [Are West Ham losing?](http://arewesthamlosing.herokuapp.com/)
-
-I also own a bunch of domains looking for a purpose:
-
-* [beekl.es](http://beekl.es)
-* [cruft.co](http://cruft.co)
-* [heyre.be](http://heyre.be)
-* [param3.com](http://param3.com)
