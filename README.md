@@ -22,6 +22,7 @@ And some things I have made (several of which are on Heroku, so have probably go
 * [Is Michael Gove wrong?](http://ismichaelgovewrong.info/)
 * [Is James Delingpole wrong?](http://isjamesdelingpolewrong.info/)
 * [Is Toby Young wrong?](http://istobyyoungwrong.info/)
+* [Are West Ham losing?](http://arewesthamlosing.herokuapp.com/)
 
 I also own a bunch of domains looking for a purpose:
 
