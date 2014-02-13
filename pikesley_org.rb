@@ -5,7 +5,7 @@ require 'rack-google-analytics'
 
 class PikesleyOrg < Sinatra::Base
   use Rack::GoogleAnalytics, :tracker => 'UA-46327971-1'
-  @@locals = { :bootstrap_theme => 'http://bootswatch.com/simplex/bootstrap.min.css', :additional_styles => [ 'css/pikesley.css' ]}
+  @@locals = { :bootstrap_theme => 'http://bootswatch.com/superhero/bootstrap.min.css', :additional_styles => [ 'css/pikesley.css' ]}
 
   get '/' do
     haml :readme, :locals => @@locals.merge({ :title => 'sam.pikesley.org' })
