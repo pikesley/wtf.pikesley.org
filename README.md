@@ -23,6 +23,7 @@ And some things I have made (several of which are on Heroku, so have probably go
 * [Diabetes Dashboard](http://pikesley.github.io/diabetes-dashboard/) - Dashing dashboard fed by the Pancreas API
 * [Uncle Clive](http://uncleclive.herokuapp.com/) - Sinclair Spectrum font as a Service
 * [Pokrovsky](http://pokrovsky.herokuapp.com/) - Github History Vandalism as a Service
+* [pikesley.org](https://github.com/pikesley/pikesley.org) - Sinatra app that runs this page
 * [What is DevOps?](http://whatisdevops.com/)
 * [How fucked is the climate?](http://howfuckedistheclimate.com/)
 * [How fucked is my CSV?](http://howfuckedismycsv.eu/)
