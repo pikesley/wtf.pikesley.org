@@ -9,7 +9,7 @@ I write code and play music. Some places you can find me on the web:
 
 * My [Github](https://github.com/pikesley) account
 * My [Twitter](https://twitter.com/pikesley) stream
-* My [Soundcloud](https://soundcloud.com/pikesley) and [my band's](https://soundcloud.com/rawfunkmaharishi) 
+* My band's [Soundcloud](https://soundcloud.com/rawfunkmaharishi)
 * My [Flickr](http://www.flickr.com/photos/pikesley/) page
 * My terribly neglected [blog](http://org.orgraphone.org/)
 * My very patchy [YouTube](https://www.youtube.com/user/pikesley/videos) channel
