@@ -32,5 +32,3 @@ And some things I have made (several of which are on Heroku, so have probably go
 * [Is James Delingpole wrong?](http://isjamesdelingpolewrong.info/)
 * [Is Toby Young wrong?](http://istobyyoungwrong.info/)
 * [Are West Ham losing?](http://arewesthamlosing.herokuapp.com/)
-
-Send Doge to _D5XXtJqZ5HPt59SEM9b959HiwcJmP36vc6_ (I have no idea why you would want to do this)
