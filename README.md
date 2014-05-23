@@ -16,6 +16,8 @@ I write code and play music. Some places you can find me on the web:
 * My [Keybase](https://keybase.io/pikesley) profile
 * My lovely employers, the [Open Data Institute](http://theodi.org/team/sam-pikesley)
 
+* I can also usually be found in #theodi on Freenode
+
 And some things I have made (several of which are on Heroku, so have probably gone to sleep, please be patient while they wake up):
 
 * [Ultron](http://pikesley.github.io/ultron/) - Ruby bindings for the [Marvel Comics API](http://developer.marvel.com/docs)
