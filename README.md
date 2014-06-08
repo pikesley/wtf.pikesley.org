@@ -12,7 +12,8 @@ I write code and play music. Some places you can find me on the web:
 * My band's [Soundcloud](https://soundcloud.com/rawfunkmaharishi)
 * My [Flickr](http://www.flickr.com/photos/pikesley/) page
 * My terribly neglected [blog](http://org.orgraphone.org/)
-* My very patchy [YouTube](https://www.youtube.com/user/pikesley/videos) channel
+* My very patchy [YouTube](https://www.youtube.com/user/pikesley/videos) and [Vimeo](https://vimeo.com/pikesley) channels
+* My occasional [Instructables](http://www.instructables.com/member/pikesley?show=INSTRUCTABLES)
 * My [Keybase](https://keybase.io/pikesley) profile
 * My lovely employers, the [Open Data Institute](http://theodi.org/team/sam-pikesley)
 
