@@ -10,6 +10,7 @@ I write code and play music. Some places you can find me on the web:
 * My [Github](https://github.com/pikesley) account
 * My [Twitter](https://twitter.com/pikesley) stream
 * My [Ello](https://ello.co/pikesley) thing
+* Some [talks](https://www.youtube.com/playlist?list=PLuPLM2FI60-M0-aWejF9WgB-Dkt1TuQXv) I have given
 * My super-awesome [band](http://rawfunkmaharishi.uk/)
 * My [Flickr](http://www.flickr.com/photos/pikesley/) page
 * My terribly neglected [blog](http://org.orgraphone.org/)
